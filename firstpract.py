@@ -1,6 +1,5 @@
 #Function
 
-
 def functionname():
 
 functionname()
@@ -36,9 +35,6 @@ objthr=namet()
 objthr.functhree(3,4)
 
 #for
-
-
-
 class foname:
     def __init__(self):
         self.li=["the","thej", "thejan", "thejanaidu","thejanallani"]
@@ -51,8 +47,6 @@ class foname:
                 print("just like that thejan")
 jlk=foname()
 jlk.funfour("thejanaidu")
-
-
 
 #1st Principle
 class oneprince:
